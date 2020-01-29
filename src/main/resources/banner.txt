@@ -1,0 +1,4 @@
+
+ 
+Aplicación  : poc-apoderados-rest-api   Version : 1.0.0
+Sprint Boot : ${spring-boot.formatted-version}
